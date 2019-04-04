@@ -12,6 +12,10 @@ namespace Vidly.Controllers
         {
             return View();
         }
+        public ActionResult Movies()
+        {
+            return View();
+        }
 
         public ActionResult About()
         {
